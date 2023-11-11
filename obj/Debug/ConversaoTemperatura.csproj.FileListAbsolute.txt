@@ -1,0 +1,7 @@
+C:\Users\RafaelFerreira\Downloads\ConversaoTemperatura\ConversaoTemperatura\bin\Debug\ConversaoTemperatura.exe.config
+C:\Users\RafaelFerreira\Downloads\ConversaoTemperatura\ConversaoTemperatura\bin\Debug\ConversaoTemperatura.exe
+C:\Users\RafaelFerreira\Downloads\ConversaoTemperatura\ConversaoTemperatura\bin\Debug\ConversaoTemperatura.pdb
+C:\Users\RafaelFerreira\Downloads\ConversaoTemperatura\ConversaoTemperatura\obj\Debug\ConversaoTemperatura.csproj.AssemblyReference.cache
+C:\Users\RafaelFerreira\Downloads\ConversaoTemperatura\ConversaoTemperatura\obj\Debug\ConversaoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\RafaelFerreira\Downloads\ConversaoTemperatura\ConversaoTemperatura\obj\Debug\ConversaoTemperatura.exe
+C:\Users\RafaelFerreira\Downloads\ConversaoTemperatura\ConversaoTemperatura\obj\Debug\ConversaoTemperatura.pdb
